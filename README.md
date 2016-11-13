@@ -13,7 +13,7 @@ My writing preferences are as follows:
 
 
     Comments: NO More than 80 characters per line.
-    Function Comments: Triple quotes tp open and close (not started this yet).
+    Multi Line Comments: Use docstring. Triple quotes tp open and close (not started this yet).
     Variables: thisMethod not this_method. (thisMethod = something)
     Functions: this_method not thisMethod. (def this_method)
     Printing: Less is more, if parenthesis not required...dont add them. (print"Less is More")
