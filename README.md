@@ -27,6 +27,10 @@ As you can see not too complex yet - as I find myself preferring/using certain m
 this list.
 
 Also this probably contradicts some of my methods and habits I have picked up while learning Python, but at the time of writing this I already have 26 repositories with code inside so perhaps over time I will straighten things out to achieve a common style across my projects. The main reason is to enable readability inmy code, but I saw a really experienced programmer do this and it kinda inspired me!
+
+I tend to use Python 2.7.11 more, for no particular reason other than I started with it, and stuck with it. I do have Python 3 and use it now and then for quick little things, but I prefer to write in 2.7. That doesn't mean that everything is in 2.7 because I do also write in 3 - 
+
+A laptop I use a lot seems to have an allergy to Python 2.7 and just downright refuses it. So that system only has Python 3 installed. Where applicable I always try to specify what version I used to write and run something - If I haven't added which version I used, I would try 2.7 first. If you are not sure, message me and I will help you out.
  
 If you see any issues with the way I do something please let me know (eg If my methods will cause problems later on)
 
