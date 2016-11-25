@@ -1,3 +1,6 @@
+# NOTE You wont see this on every little thing I write, but if I do 
+# come up with a good idea, I will use this template
+
 # This is the standard format, my other method is basically a neat version of this
 
 __author__ = "Ben Woodfield"
